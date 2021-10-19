@@ -1,0 +1,13 @@
+C:\Users\Jonas\source\repos\Fraktaler X\Fraktaler X\bin\Debug\Fraktaler X.exe.config
+C:\Users\Jonas\source\repos\Fraktaler X\Fraktaler X\bin\Debug\Fraktaler X.exe
+C:\Users\Jonas\source\repos\Fraktaler X\Fraktaler X\bin\Debug\Fraktaler X.pdb
+C:\Users\Jonas\source\repos\Fraktaler X\Fraktaler X\obj\Debug\Fraktaler X.csproj.AssemblyReference.cache
+C:\Users\Jonas\source\repos\Fraktaler X\Fraktaler X\obj\Debug\Fraktaler_X.FraktalerX.resources
+C:\Users\Jonas\source\repos\Fraktaler X\Fraktaler X\obj\Debug\Fraktaler_X.Properties.Resources.resources
+C:\Users\Jonas\source\repos\Fraktaler X\Fraktaler X\obj\Debug\Fraktaler X.csproj.GenerateResource.cache
+C:\Users\Jonas\source\repos\Fraktaler X\Fraktaler X\obj\Debug\Fraktaler X.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\source\repos\Fraktaler X\Fraktaler X\obj\Debug\Fraktaler X.exe
+C:\Users\Jonas\source\repos\Fraktaler X\Fraktaler X\obj\Debug\Fraktaler X.pdb
+C:\Users\Jonas\source\repos\Fraktaler X\Fraktaler X\obj\Debug\Fraktaler_X.Fraktal_Auswählen.resources
+C:\Users\Jonas\source\repos\Fraktaler X\Fraktaler X\obj\Debug\Fraktaler_X.Fraktale.Mandelbrot.Mandelbrot.resources
+C:\Users\Jonas\source\repos\Fraktaler X\Fraktaler X\obj\Debug\ComplexNumber.frmMain.resources
